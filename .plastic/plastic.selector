@@ -1,0 +1,4 @@
+repository "InkOMancer@leandrequi@cloud"
+  path "/"
+    br "/main"
+    co "/main"
